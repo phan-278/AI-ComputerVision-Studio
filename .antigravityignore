@@ -1,0 +1,15 @@
+# Chặn các thư mục thư viện và cache
+venv/
+.antigravity/
+__pycache__/
+
+# Chặn các file dữ liệu nặng (Nguyên nhân chính gây quá tải)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.mp4
+*.avi
+*.mov
+datasets/
+runs/
