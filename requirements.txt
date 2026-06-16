@@ -1,0 +1,11 @@
+numpy
+opencv-python
+torch
+torchvision
+supervision
+ultralytics
+matplotlib
+torchreid
+gdown
+tensorboard
+
