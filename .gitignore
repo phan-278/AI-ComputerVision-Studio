@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Outputs
+assets/output_videos/
+
+# Tools
+ffmpeg/
+mediamtx/
+
+# Models
+*.pt
+*.pth
+*.onnx
+
+# Virtual env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
